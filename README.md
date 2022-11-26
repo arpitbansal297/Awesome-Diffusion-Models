@@ -895,6 +895,10 @@ ICML 2015. [[Paper](https://arxiv.org/abs/1503.03585)] [[Github](https://github.
 *Ryan Burgert, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.13224)] \
 23 Nov 2022
+Arpit : This paper performs **segmentation** using text to image diffusion models, in an unsupervised manner.
+"In summary, we present a first zero-shot,
+open-vocabulary, unsupervised (no localization information), semantic grounding technique leveraging diffusionbased generative models with no re-training."
+
 
 **Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
 *Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
