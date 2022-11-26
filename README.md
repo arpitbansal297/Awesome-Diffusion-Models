@@ -894,7 +894,7 @@ ICML 2015. [[Paper](https://arxiv.org/abs/1503.03585)] [[Github](https://github.
 **Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors** \
 *Ryan Burgert, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.13224)] \
-23 Nov 2022
+23 Nov 2022 \
 Arpit : This paper performs **segmentation** using text to image diffusion models, in an unsupervised manner.
 "In summary, we present a first zero-shot,
 open-vocabulary, unsupervised (no localization information), semantic grounding technique leveraging diffusionbased generative models with no re-training."
@@ -903,17 +903,21 @@ open-vocabulary, unsupervised (no localization information), semantic grounding 
 **Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
 *Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
 BMVC 2022. [[Paper](https://arxiv.org/abs/2210.01713)] \
-4 Oct 2022
+4 Oct 2022 \
+Arpit : seems only for medical stuff
 
 **Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation** \
 *Boah Kim<sup>1</sup>, Yujin Oh<sup>1</sup>, Jong Chul Ye* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14566)] \
-29 Sep 2022
+29 Sep 2022\
+Arpit : seems only for medical stuff
 
 **Can segmentation models be trained with fully synthetically generated data?** \
 *Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Petru-Daniel Tudosiu, Mark S Graham, Tom Vercauteren, M Jorge Cardoso* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.08256)] \
-17 Sep 2022
+17 Sep 2022 \
+Arpit : For medical images and show that the performance of models trained on synthetic data they generated is same as the models trained on real data.
+
 
 **Let us Build Bridges: Understanding and Extending Diffusion Generative Models** \
 *Xingchao Liu, Lemeng Wu, Mao Ye, Qiang Liu* \
