@@ -998,27 +998,32 @@ An application of diffusion models to do some image-to-image task.
 *Alexandros Graikos, Nikolay Malkin, Nebojsa Jojic, Dimitris Samaras* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2206.09012)] \
 17 Jun 2022
-Arpit: 
+Arpit: READ IT CAREFULLY
 
 **Decoder Denoising Pretraining for Semantic Segmentation** \
 *Emmanuel Brempong Asiedu, Simon Kornblith, Ting Chen, Niki Parmar, Matthias Minderer, Mohammad Norouzi* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2205.11423)] \
 23 May 2022
+Arpit: They do an unsupervised learning for the decoder of the image segmentation model for image segmentation.
+
 
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
 *Julia Wolleb<sup>1</sup>, Robin Sandkühler<sup>1</sup>, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
 MIDL 2021. [[Paper](https://arxiv.org/abs/2112.03145)] \
 6 Dec 2021
+Arpit : It is a paper on medical image segmentation using diffusion models.
 
 **Label-Efficient Semantic Segmentation with Diffusion Models** \
 *Dmitry Baranchuk, Ivan Rubachev, Andrey Voynov, Valentin Khrulkov, Artem Babenko* \
 ICLR 2021. [[Paper](https://arxiv.org/abs/2112.03126)] [[Github](https://github.com/yandex-research/ddpm-segmentation)] \
 6 Dec 2021
+Arpit : Few shot image segmentation using diffusion models.
 
 **SegDiff: Image Segmentation with Diffusion Probabilistic Models** \
 *Tomer Amit, Eliya Nachmani, Tal Shaharbany, Lior Wolf* \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2112.00390)] \
 1 Dec 2021
+Arpit : Image segmentation using the image as a guidance.
 
 
 ### Image-to-Image Translation
