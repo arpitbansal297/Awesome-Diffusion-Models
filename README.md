@@ -998,7 +998,7 @@ Arpit: An application of diffusion models to do some image-to-image task.
 *Alexandros Graikos, Nikolay Malkin, Nebojsa Jojic, Dimitris Samaras* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2206.09012)] \
 17 Jun 2022 \
-Arpit: READ IT CAREFULLY
+Arpit: READ IT CAREFULLY - SIMILAR Motivation
 
 **Decoder Denoising Pretraining for Semantic Segmentation** \
 *Emmanuel Brempong Asiedu, Simon Kornblith, Ting Chen, Niki Parmar, Matthias Minderer, Mohammad Norouzi* \
@@ -1148,33 +1148,40 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2104.05358)] \
 **Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model** \
 *Yinhuai Wang<sup>1</sup>, Jiwen Yu<sup>1</sup>, Jian Zhang* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2212.00490)] [[Github](https://github.com/wyhuai/DDNM)] \
-1 Dec 2022
+1 Dec 2022 \
+Arpit: READ IT CAREFULLY - SIMILAR Motivation
 
 
 **FREDSR: Fourier Residual Efficient Diffusive GAN for Single Image Super Resolution** \
 *Kyoungwan Woo<sup>1</sup>, Achyuta Rajaram<sup>1</sup>* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.16678)] \
-30 Nov 2022
+30 Nov 2022 \
+Arpit : Does not seem to be related to diffusion.
 
 **CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis** \
 *Shichong Peng, Alireza Moazeni, Ke Li* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.14286)] \
-25 Nov 2022
+25 Nov 2022 \
+Arpit : Does not seem to be related to diffusion as such. 
 
 **Superresolution Reconstruction of Single Image for Latent features** \
 *Xin Wang, Jing-Ke Yan, Jing-Ye Cai, Jian-Hua Deng, Qin Qin, Qin Wang, Heng Xiao, Yao Cheng, Peng-Fei Ye* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.12845)] \
-16 Nov 2022
+16 Nov 2022 \
+Arpit : "Firstly, a Conditional Encoder is designed to effectively encode Low-Resolution (LR) images, thereby reducing the solution space of reconstructed images to improve the performance of reconstructed images. "
+
 
 **Diffusion Model Based Posterior Sampling for Noisy Linear Inverse Problems** \
 *Xiangming Meng, Yoshiyuki Kabashima* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.12343)] [[Github](https://github.com/mengxiangming/dmps)] \
-20 Nov 2022
+20 Nov 2022 \
+Arpit : READ IT CAREFULLY - SIMILAR Motivation
 
 **Conffusion: Confidence Intervals for Diffusion Models** \
 *Eliahu Horwitz, Yedid Hoshen* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.09795)] \
-17 Nov 2022
+17 Nov 2022 \
+Arpit : READ IT CAREFULLY - SIMILAR Motivation
 
 
 **From Denoising Diffusions to Denoising Markov Models** \
